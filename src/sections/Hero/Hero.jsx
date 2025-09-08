@@ -8,7 +8,7 @@ import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
 import instagramLight from "../../assets/instagram-alt.svg";
 import instagramDark from "../../assets/inst.png";
-import CV from "../../assets/test3.pdf";
+import CV from "../../assets/RamanNemaCV.pdf";
 import { useTheme } from '../../common/ThemeContext';
 import gmailLight from '../../assets/gmailLight.svg';
 import gmailDark from '../../assets/gmailDark.svg';
